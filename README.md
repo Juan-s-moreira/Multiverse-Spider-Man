@@ -20,8 +20,8 @@ CSS3
 JavaScript
 
 ## Funcionalidades
-Carrossel Interativo: Através de transformações rotateY, o carrossel exibe cartões com imagens de fundo e de perfil de cada Homem-Aranha.
+Carrossel Interativo: O carrossel exibe cartões com imagens de fundo e de perfil de cada Homem-Aranha.
 
-Hover Interativo nos Cartões: A classe s-card--hovered é aplicada ao passar o mouse sobre os cartões, destacando o personagem selecionado.
+Hover Interativo nos Cartões: Ao passar o mouse sobre os cartões, destaca o personagem selecionado.
 
 Controle do Carrossel: Botões numerados para alternar entre os diferentes cartões.
